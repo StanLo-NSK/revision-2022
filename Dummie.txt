@@ -4,3 +4,4 @@ boom
 yet another edit
 And here comes another line!
 Do you ever wonder what you'll do in case of a merge conflict?
+What if this text will lead to it?
