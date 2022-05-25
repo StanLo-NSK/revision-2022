@@ -2,3 +2,4 @@ This is just a sample txt-file to view repo changes via GH Desktop app.
 bla-bla-bla
 boom
 yet another edit
+And here comes another line!
