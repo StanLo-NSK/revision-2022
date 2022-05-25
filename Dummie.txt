@@ -3,3 +3,4 @@ bla-bla-bla
 boom
 yet another edit
 And here comes another line!
+What if this text will lead to a merge conflict?
