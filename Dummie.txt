@@ -3,3 +3,4 @@ bla-bla-bla
 boom
 yet another edit
 And here comes another line!
+Do you ever wonder what you'll do in case of a merge conflict?
